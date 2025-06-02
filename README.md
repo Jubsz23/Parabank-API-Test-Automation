@@ -58,29 +58,23 @@ npm install -g newman-reporter-htmlextra
 newman run collections/your-collection.json -e environments/your-environment.json -r htmlextra
 ```
 
-## Contribution
-1. Fork the project.
-2. Create a new branch:
-     ```bash
-        git checkout -b my-branch
-     ```
-3. Make your changes and commit them:
-     ```bash
-        git commit -m 'My contribution'
-     ```
-4. Push to the remote repository:  
-    ```bash
-      git push origin my-branch
-    ```
-5. Open a Pull Request.
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests.
 
-```javascript
-This `README.md` file includes a resized image of the Postman logo, providing an overview of the project,
-installation instructions, usage details (including running the `htmlextra` report with Newman),
-contribution guidelines, licensing information, and contact details.
-Adjust the placeholder information (like URLs and email addresses) as necessary for your specific project.
-```
+## Comments:
 
+  - It was used step nomenclature in the Camel Case standard;
+
+  - It was used describe and it nomenclature in a clear and objective way;
+
+  - It was configured the project for low Chrome consumption in e2e settings;
+
+  - It was used commands as a good practice to code the scenarios below.
+    
+  - The project wiki details the testing strategies used for this project, as well as possible improvements.<br>
+  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;👇🏾 👇🏾 👇🏾 <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Jubsz23/Parabank-API-Test-Automation/wiki" target="_blank"><img src="https://img.shields.io/badge/-GitWiki-%23333?&style=flat&logo=github" target="_blank"></a>
 
 
 
